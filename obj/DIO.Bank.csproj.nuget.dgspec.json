@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DIO\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\DIO\\dio.bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "c:\\DIO\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\DIO\\dio.bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\DIO\\dio.bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "c:\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "C:\\DIO\\dio.bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "c:\\DIO\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\DIO\\dio.bank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

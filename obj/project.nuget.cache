@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "srQ+q/86i49CjikvjdK14FjibRwmD7rxoLJbPkbanEcNjffLBgVnE4mvygYhMaXC0ef0Ws0X8dygbzHljV7fYA==",
+  "dgSpecHash": "DYwcplOv9pfMygsUHv257fho3DQynEu5+2BTEj0XFGF2XQVRU1ndChU3AJQkX6IM3fo5B1Zko+kJzxbyldx+/w==",
   "success": true,
-  "projectFilePath": "c:\\DIO\\DIO.Bank\\DIO.Bank.csproj",
+  "projectFilePath": "C:\\DIO\\dio.bank\\DIO.Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
